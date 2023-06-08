@@ -15,4 +15,6 @@ int main(){
       sum = sum+ i;
   }
   std::cout<<sum<<std::endl;
+
+  return 0;
 }
